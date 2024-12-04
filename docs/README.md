@@ -103,18 +103,25 @@ This will copy the `zebrapass` executable to `/usr/local/bin/`, making it access
 1.**Generate Password**
 - Choose password type (random or memorable).
 - Customize character sets, length, and security features.
+
 2.**Help**
 - Access detailed documentation for all program features.
+
 3.**Quit**
 - Exit the program safely.
 
 
 ## Example: Generating Passwords
 ### Steps:
+
 1.Launch ZebraPass and select Generate Password.
+
 2.Choose random or memorable passwords.
+
 3.Define character sets, exclude ambiguous characters, and set password length.
+
 4.Generate single or multiple passwords with your specifications.
+
 5.Save the passwords to a file or copy them to the clipboard.
 
 
@@ -122,7 +129,9 @@ This will copy the `zebrapass` executable to `/usr/local/bin/`, making it access
 Contributions are welcome! Please follow these steps:
 
 1.Fork the repository.
+
 2.Create a new branch for your feature/bugfix.
+
 3.Submit a pull request with detailed explanations.
 
 ## License
